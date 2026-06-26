@@ -1,6 +1,6 @@
 # QSR Location Health Index — US Market
 
-**LSE Data Analytics Career Accelerator · Team Project (Team 15, "The Outliers") · 2026**
+**LSE Data Analytics Career Accelerator · Team Project · 2026**
 
 ## Overview
 
