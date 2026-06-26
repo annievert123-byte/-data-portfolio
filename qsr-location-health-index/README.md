@@ -4,7 +4,7 @@
 
 ## Overview
 
-The US quick-service restaurant (QSR) market is worth over $343B annually. This project built a **Location Health Index** — a 0–100 score for individual QSR outlets — to help a (simulated) VP of Analytics proactively identify restaurant locations at risk of high customer dissatisfaction, enabling earlier, more targeted intervention than relying on lagging sales data alone.
+The US quick-service restaurant (QSR) market is worth over $343B annually. This project built a **Location Health Index** — a 0–100 score for individual QSR outlets — to help a simulated company proactively identify restaurant locations at risk of high customer dissatisfaction, enabling earlier, more targeted intervention than relying on lagging sales data alone.
 
 ## Approach
 
