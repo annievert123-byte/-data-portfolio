@@ -1,4 +1,4 @@
-# Annie Vert — Data Analytics Portfolio
+# Annie Vert -Data Analytics Portfolio
 
 Marketing and account management professional transitioning into data analytics, trained through the London School of Economics Data Analytics Career Accelerator (SQL, Python, R, Tableau, Snowflake). This repo collects project work completed during the program.
 
