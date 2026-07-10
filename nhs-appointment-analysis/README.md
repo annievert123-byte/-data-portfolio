@@ -29,7 +29,6 @@ The NHS posed two questions about its appointment data: *"Has there been adequat
 ## Files
 - [`reports/NHS_Appointment_Analysis_Report.pdf`](./reports/NHS_Appointment_Analysis_Report.pdf) — full written report with all visualizations and appendix
 - [`notebooks/Vert_Annie_DA201_Assignment_Notebook_Submission.ipynb`](./notebooks/Vert_Annie_DA201_Assignment_Notebook_Submission.ipynb) — full Python analysis: data cleaning, merging, custom metrics, seasonal aggregation, social data analysis
-- **Presentation video**: too large to host on GitHub (220MB+) — available on request
 
 ## Tools
 `Python` (pandas, NumPy, matplotlib) · Data cleaning & merging · Custom weighted metrics · Seasonal trend analysis · Social media/text data analysis
