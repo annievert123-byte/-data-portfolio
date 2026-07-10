@@ -32,7 +32,6 @@ Turtle Games, a game development and retail company, needed to understand what d
 - [`reports/Turtle_Games_Customer_Loyalty_Report.pdf`](./reports/Turtle_Games_Customer_Loyalty_Report.pdf) — full written report with all visualizations and appendix
 - [`notebooks/LSE_DA301_Assignment_Notebook.ipynb`](./notebooks/LSE_DA301_Assignment_Notebook.ipynb) — Python analysis: data cleaning, regression, clustering, NLP/sentiment analysis
 - [`r-scripts/Vert_Annie_301_Assignment_Rscript.R`](./r-scripts/Vert_Annie_301_Assignment_Rscript.R) — R analysis: normality testing, MLR, Random Forest modelling
-- [`assets/walkthrough.mp4`](./assets/walkthrough.mp4) — video walkthrough of the analysis (large file — download to view, GitHub won't preview it inline)
 
 ## Tools
 `Python` (pandas, scikit-learn, NLTK, VADER, WordCloud) · `R` (tidyverse, moments, randomForest) · `Linear Regression` · `Random Forest` · `K-means Clustering` · `Sentiment Analysis`
