@@ -24,7 +24,11 @@ The US quick-service restaurant (QSR) market is worth over $343B annually. This 
 - **Tableau dashboard**: the `.twbx` workbook file is too large to host directly on GitHub (224MB). See screenshot below, or contact me for the live file.
 
 ## Dashboard Preview
-*Screenshot to be added — see `/assets`*
+<img width="757" height="461" alt="Screenshot 2026-07-10 at 10 58 58 AM" src="https://github.com/user-attachments/assets/be0e0a45-48da-4f8d-b661-28a6e35827a2" />
+
+<img width="723" height="450" alt="Screenshot 2026-07-10 at 10 59 36 AM" src="https://github.com/user-attachments/assets/16c40dd3-6cef-4ebe-8e1a-3f90db033fd9" />
+
+<img width="747" height="472" alt="Screenshot 2026-07-10 at 10 59 21 AM" src="https://github.com/user-attachments/assets/85799f83-133e-4e27-ae29-5e5b01eb3827" />
 
 ## Tools
 `Python` (pandas, NumPy, scikit-learn, VADER, NLTK) · `Snowflake` · `Tableau` · `SQL`
